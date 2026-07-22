@@ -54,10 +54,6 @@ A Passionate Full Stack Developer & CSE Student from Bangladesh 🇧🇩
 - 🌱 Currently learning **ASP.NET, React & Full Stack Development**
 - 💻 Interested in **Web Development, UI&UX  Software Engineering**
 
-📂 **GitHub Repository**
-
-https://github.com/nazmul-d3v/css-flag-gallery
-
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤝 Looking for help with **System Design & Backend Development**
 - 📫 Reach me at **hello.nazzmul@gmail.com**
