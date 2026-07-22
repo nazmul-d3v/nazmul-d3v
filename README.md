@@ -51,7 +51,7 @@ A Passionate Full Stack Developer & CSE Student from Bangladesh 🇧🇩
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student at **IUBAT**
-- 🌱 Currently learning ** ASP.NET, React & Full Stack Development**
+- 🌱 Currently learning **ASP.NET, React & Full Stack Development**
 - 💻 Interested in **Web Development, UI&UX  Software Engineering**
 
 📂 **GitHub Repository**
@@ -120,17 +120,6 @@ https://github.com/nazmul-d3v/css-flag-gallery
 </p>
 
 ---
-
-## 📌 Featured Project
-
-### 🇺🇳 CSS Flag Gallery
-
-A responsive website showcasing country flags using only **HTML & CSS**.
-
-### 🔗 Live Demo
-
-https://css-flag-gallery.vercel.app/
-
 ### 💻 Repository
 
 https://github.com/nazmul-d3v/css-flag-gallery
