@@ -92,7 +92,7 @@ https://github.com/nazmul-d3v/css-flag-gallery
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php, dart"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,dart"/>
 </p>
 
 ### Frontend
